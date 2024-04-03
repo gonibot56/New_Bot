@@ -1,5 +1,5 @@
 module.exports.config = {
-	name: "kissv3",
+	name: "k𝐠𝐠𝐠𝐠𝐠issv3",
   version: "1.0.0",
   permission: 0,
   credits: "Nayan",
