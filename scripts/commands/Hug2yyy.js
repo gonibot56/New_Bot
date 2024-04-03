@@ -1,5 +1,5 @@
 module.exports.config = {
-	name: "hugv2",
+	name: "hugdiddv2",
   version: "1.0.0",
   permission: 0,
   credits: "Nayan",
